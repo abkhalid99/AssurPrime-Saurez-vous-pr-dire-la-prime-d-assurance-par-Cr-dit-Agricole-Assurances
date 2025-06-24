@@ -39,7 +39,7 @@ Développer un pipeline de modélisation pour prédire la **prime d’assurance*
 
 ---
 
-## 📈 Analyse et visualisation
+##  Analyse et visualisation
 - Utilisation de **matplotlib**, **seaborn**, **plotly** pour l’exploration graphique.
 - Cartographie interactive des clients par charge estimée.
 - Segmentation des clients pour une politique de tarification adaptée.
